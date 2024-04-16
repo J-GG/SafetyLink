@@ -1,0 +1,27 @@
+{
+  "home": {
+    "title": "Home",
+    "alertButton": {
+      "title": "SOS",
+      "on.description": "Press to stop alerting",
+      "off.description": "Press to alert"
+    },
+    "notification": {
+      "content": {
+        "start": "Need emergency help.",
+        "position": " My position: "
+      },
+      "success": "Notification has been sent",
+      "failure": "Failed to send notification",
+      "empty": "Please add a contact first"
+    },
+    "geolocation.permission.denied": "Without access to your location, it cannot be transmitted in the notification"
+  },
+  "contacts": {
+    "title": "Contacts"
+  },
+  "contactSearch": {
+    "title": "Search Contacts",
+    "input.placeholder": "Name or phone number"
+  }
+}

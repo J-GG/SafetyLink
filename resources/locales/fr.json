@@ -1,0 +1,27 @@
+{
+  "home": {
+    "title": "Accueil",
+    "alertButton": {
+      "title": "SOS",
+      "on.description": "Appuyer pour arrêter l'alerte",
+      "off.description": "Appuyer pour alerter"
+    },
+    "notification": {
+      "content": {
+        "start": "Besoin d'aide d'urgence.",
+        "position": " Ma position: "
+      },
+      "success": "La notification a été envoyée",
+      "failure": "Échec de l'envoi de la notification",
+      "empty": "Ajoutez d'abord un contact"
+    },
+    "geolocation.permission.denied": "Sans accès à votre position, elle ne pourra être transmise dans la notification"
+  },
+  "contacts": {
+    "title": "Contacts"
+  },
+  "contactSearch": {
+    "title": "Rechercher des contacts",
+    "input.placeholder": "Nom ou numéro de teléphone"
+  }
+}
